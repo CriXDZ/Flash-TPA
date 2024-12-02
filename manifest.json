@@ -1,0 +1,41 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Teletransporte rápido utilizando la brújula, ideal para §aservidores.\n§dSígueme en GitHub: §fCriXDZ",
+    "name": "§6Flash TPA§r",
+    "uuid": "60b0baef-2128-44e3-95c9-128eb6e8def4",
+    "min_engine_version": [1, 20, 0],
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "uuid": "22242e61-1869-4a2e-afba-8a274217d819",
+      "type": "data",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "b7faa66b-5c3a-4899-8a73-32b2c2517c20",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "capabilities": ["script_eval"],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.10.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.0.0"
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "bridge": ["2.7.41"],
+      "dash": ["0.11.7"]
+    }
+  }
+}
