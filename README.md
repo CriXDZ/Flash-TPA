@@ -4,7 +4,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock%20Edition-%2331A8FF)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green)
-![Main Language](https://img.shields.io/github/languages/top/CriXDZ/Flash-TPA)
+![Main Language](https://img.shields.io/github/languages/top/CriXDZ/Flash-TPA?color=yellow)
 
 ## Índice
 
