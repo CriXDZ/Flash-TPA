@@ -4,8 +4,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock%20Edition-%2331A8FF)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green)
-![GitHub stars](https://img.shields.io/github/stars/CriXDZ/Flash-TPA)
-![GitHub forks](https://img.shields.io/github/forks/CriXDZ/Flash-TPA)
+![Main Language](https://img.shields.io/github/languages/top/CriXDZ/Flash-TPA)
 
 ## Índice
 
@@ -49,5 +48,3 @@
 </p>
 
 ---
-
-© 2024 CriXDZ - Sígueme en GitHub: [CriXDZ](https://github.com/CriXDZ)
