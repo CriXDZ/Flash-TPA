@@ -2,6 +2,18 @@
 
 **Flash TPA** es un addon de Minecraft que permite a los jugadores teletransportarse rápidamente utilizando una brújula. Ideal para servidores y mundos personalizados.
 
+![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock%20Edition-%2331A8FF)
+![Version](https://img.shields.io/badge/Version-1.0.0-green)
+![GitHub stars](https://img.shields.io/github/stars/CriXDZ/Flash-TPA)
+![GitHub forks](https://img.shields.io/github/forks/CriXDZ/Flash-TPA)
+
+## Índice
+
+- [Características](#características)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Créditos](#créditos)
+
 ## Características
 
 - **Teletransporte Rápido**: Utiliza una brújula para solicitar y aceptar teletransportes.
@@ -10,7 +22,7 @@
 
 ## Instalación
 
-1. **Descargar**: Descarga el archivo `.mcaddon` desde la página de [releases](https://github.com/CriXDZ/Flash-TPA/releases).
+1. **Descargar**: Descarga el archivo `.mcaddon` desde la página de [download](https://www.mediafire.com/file/ynmj57errmyk4fy/Flash_TPA.mcaddon/file).
 2. **Importar**: Abre Minecraft y selecciona el archivo `.mcaddon` para importar el addon.
 3. **Activar**: En la configuración de tu mundo, activa el paquete de comportamientos `Flash TPA`.
 
@@ -26,15 +38,6 @@
    - Mantén una brújula en la mano.
    - Usa el ítem para abrir el menú y aceptar la solicitud de teletransporte.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los siguientes pasos:
-
-1. Bifurca el repositorio.
-2. Crea una nueva rama (`feature/nueva-funcionalidad`).
-3. Realiza tus cambios.
-4. Envía una solicitud de extracción.
-
 ## Créditos
 
 <p align="center">
@@ -44,10 +47,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los si
     <strong>CriXDZ</strong>
   </a>
 </p>
-
-## Licencia
-
-Este proyecto está licenciado bajo la MIT License. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
