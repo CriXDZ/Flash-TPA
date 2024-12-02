@@ -46,5 +46,3 @@
     <strong>CriXDZ</strong>
   </a>
 </p>
-
----
